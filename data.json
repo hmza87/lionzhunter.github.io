@@ -2,7 +2,7 @@
 			"items": [{
 				"id": "1",
 				"type": "photo",
-				"title": "long jpg"",
+				"title": "long jpg,
 				"body": "http://i.imgur.com/pHx4U1k.jpg",
 				"user": {
 					"id": "1",
