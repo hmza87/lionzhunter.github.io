@@ -3,7 +3,7 @@
 				"id": "1",
 				"type": "photo",
 				"title": "test photo",
-				"body": "http://www.planwallpaper.com/static/images/ZhGEqAP.jpg",
+				"body": "http://i.imgur.com/pHx4U1k.jpg",
 				"user": {
 					"id": "1",
 					"name": "Hamzah"
@@ -14,9 +14,9 @@
 				"dlikes": "1"
 			},{
 				"id": "1",
-				"type": "photo",
-				"title": "test photo",
-				"body": "http://www.planwallpaper.com/static/images/butterfly-wallpaper.jpeg",
+				"type": "gif",
+				"title": "gigig",
+				"body": "http://i.imgur.com/FcqbmU6.gif",
 				"user": {
 					"id": "1",
 					"name": "Hamzah"
