@@ -2,7 +2,7 @@
 			"items": [{
 				"id": "1",
 				"type": "photo",
-				"title": "test photo",
+				"title": "long jpg"",
 				"body": "http://i.imgur.com/pHx4U1k.jpg",
 				"user": {
 					"id": "1",
@@ -42,7 +42,7 @@
 				"id": "2",
 				"type": "text",
 				"title": "test texto",
-				"body": "http://i.imgur.com/USOQKSj.jpg",
+				"body": "I'm using Picasso library for image downloading from the network. I just wonder whether I can use a progress dialog or a GIF image as a place holder? Also any idea on how to make place holder image to be smaller (and fit in centre) than the actual image that is downloaded?",
 				"user": {
 					"id": "1",
 					"name": "Hamzah"
@@ -55,7 +55,7 @@
 				"id": "3",
 				"type": "video",
 				"title": "test video",
-				"body": "http://i.imgur.com/6yEuFTX.jpg",
+				"body": "GRTYBPBKLow",
 				"user": {
 					"id": "1",
 					"name": "Hamzah"
@@ -68,7 +68,7 @@
 				"id": "4",
 				"type": "gif",
 				"title": "test gif",
-				"body": "http://i.imgur.com/APdf3Dq.jpg",
+				"body": "http://i.imgur.com/WOFB2L0.gif",
 				"user": "1",
 				"addtime": "2012-04-23T18:25:43.511",
 				"editime": "2012-04-23T18:25:43.511",
@@ -78,7 +78,7 @@
 				"id": "5",
 				"type": "text",
 				"title": "test text2",
-				"body": "http://i.imgur.com/SavXAyN.jpg",
+				"body": "مرحبا ً بك",
 				"user": {
 					"id": "1",
 					"name": "Hamzah"
